@@ -3530,7 +3530,7 @@ msgstr "Logg ut"
 #: pages/levels.php:35 shortcodes/pmpro_account.php:44
 #: shortcodes/pmpro_account.php:126
 msgid "Level"
-msgstr "Kurs"
+msgstr "Nivå"
 
 # @ pmpro
 #: pages/billing.php:27
@@ -4349,7 +4349,7 @@ msgstr "Lenker for medlemmer"
 
 # @ pmpro
 #~ msgid "Subscription Information"
-#~ msgstr "Kursinformasjon"
+#~ msgstr "Medlemsskapsinformasjon"
 
 # @ pmpro
 #~ msgid "--"
